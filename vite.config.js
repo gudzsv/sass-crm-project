@@ -21,7 +21,6 @@ export default defineConfig({
       }
     })
   ],
-  css: {},
   build: {
     minify: false,
     rollupOptions: {
